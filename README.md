@@ -51,5 +51,6 @@ This project implements a **Dynamic Generative AI Chatbot** powered by **Retriev
 
 - Improved handling of large files with streaming techniques.
 
+![image](https://github.com/user-attachments/assets/45c79bd0-9778-46a3-9c6a-05061529c230)
 
 
