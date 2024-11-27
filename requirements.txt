@@ -1,0 +1,10 @@
+transformers
+gradio
+pandas
+PyPDF2
+ipykernel
+spacy
+torch
+pinecone
+python-dotenv
+json5
