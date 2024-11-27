@@ -1,7 +1,7 @@
 
 # Dynamic Chatbot with Retrieval-Augmented Generation (RAG)
 
-This project implements a **Dynamic Generative AI Chatbot** powered by **Retrieval-Augmented Generation (RAG)**. The system allows users to upload documents, processes them to extract and store embeddings in a vector database (Pinecone), and uses **OpenAI's GPT models** to provide contextually aware answers to user queries. 
+This project is a **Dynamic Generative AI Chatbot** powered by **Retrieval-Augmented Generation (RAG)**. The system allows users to upload documents, processes them to extract and store embeddings in a vector database (Pinecone), and uses **OpenAI's GPT models** to provide contextually aware answers to user queries. 
 
 ## Features
 
